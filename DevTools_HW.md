@@ -1,6 +1,6 @@
 **0. Открыть сайт *<u>http://itcareer.pythonanywhere.com</u>***
 
-**1.  *Chrome DevTools***
+**1. Открыть *Chrome DevTools***
 
 **2. Зайти в панель *Elements***
 
