@@ -1,4 +1,4 @@
-**0. Открыть сайт *<u></u>***
+**0. Открыть сайт *<u>http://itcareer.pythonanywhere.com</u>***
 
 **1. Открыть *Chrome DevTools***
 
